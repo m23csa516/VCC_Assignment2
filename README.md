@@ -89,4 +89,7 @@ Before you begin, ensure you have the following:
       
     Security Checks:Confirm that firewall rules and IAM roles are correctly enforced, ensuring secure access to the VM instances.
 
+## Recorded Video Link:https://drive.google.com/file/d/1Xzw1O-_5JhlpSjXX4M7cD42Hb70ZaTxV/view
+
+
 
